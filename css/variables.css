@@ -1,0 +1,16 @@
+:root {
+    /* Colores Principales */
+    --color-fondo: #FFFFFF;
+    --color-texto-principal: #292929;
+    --color-texto-secundario: #808080;
+    --color-acento: #000000;
+    --color-rating: #FFC107;
+    --gris-claro: #F3F4F6;
+
+    /* Tipografía */
+    --fuente-principal: 'Encode Sans', sans-serif;
+
+    /* Bordes y Sombras según Figma */
+    --radio-tarjeta: 20px;
+    --sombra-suave: 0 4px 15px rgba(0, 0, 0, 0.05);
+}
